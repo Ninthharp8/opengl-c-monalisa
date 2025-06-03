@@ -4,8 +4,9 @@ Este repositorio demuestra cómo implementar la funcionalidad `texelFetch` vista
 
 🔗 https://math.hws.edu/graphicsbook/source/webgl/texelFetch-MonaLisa-webgl2.html
 
-
-<img align="center" src="./shaders/monalisa.png" alt="MonaLisa" style="width: 300px; height: 400px;"/>
+<div align="center">
+  <img  src="./shaders/monalisa.png" alt="MonaLisa" style="width: 300px; height: 400px;"/>
+</div>
 
 
 
@@ -33,8 +34,9 @@ Esta implementación demuestra cómo se pueden manipular coordenadas y acceder a
 
 ## Resultados
 Comparación de la versión Webgl 2.0 y la implementada en opengl c++:
-<img align="center" src="./results/comparacion-webgl-opengl.png" style="width: 800px; height:400px;">
-
+<div align="center">
+  <img src="./results/comparacion-webgl-opengl.png" width="800" height="400">
+</div>
 Resultado con otra imagen. 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
   <img src="./shaders/wolfFMat.png" alt="Wolf" style="width: 500px; height: 300px; object-fit: cover; border: 1px solid #ccc;"/>
