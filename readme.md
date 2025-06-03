@@ -38,5 +38,6 @@ Comparación de la versión Webgl 2.0 y la implementada en opengl c++:
 Resultado con otra imagen. 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
   <img src="./shaders/wolfFMat.png" alt="Wolf" />
-  <img src="./results/prueba-con-logo.png" alt="Prueba" />
+  <img src="./results/prueba-con-logo.png" alt="Prueba" style="width: 300px; height: 300px; object-fit: cover; border: 1px solid #ccc;"/>
 </div>
+
